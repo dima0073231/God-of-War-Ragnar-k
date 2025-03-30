@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\sass\\base\\common.scss"],"names":[],"mappings":"AAAA;EACE;EACA","file":"common.4d730cfe.css","sourceRoot":"..","sourcesContent":["h1 {\r\n  font-size: 70;\r\n  color: red;\r\n}\r\n"]}
